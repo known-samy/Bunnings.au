@@ -19,7 +19,7 @@ function App() {
       </div>
 
       <div className='nav-cent'>
-        <img src={logo} alt='logo'/>
+        Map Dude by Pranay
       </div>
 
       <div className='nav-right'>
