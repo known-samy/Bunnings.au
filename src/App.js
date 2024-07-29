@@ -18,8 +18,8 @@ function App() {
         <h3>Products</h3>
       </div>
 
-      <div className='nav-cent'>
-        Map Dude by Pranay
+      <div className='nav-cent'><img src="https://cdn.pixabay.com/photo/2024/02/15/20/08/dog-8576035_1280.png"/>
+        <div id="re">Map Dude by Pranay</div>
       </div>
 
       <div className='nav-right'>
