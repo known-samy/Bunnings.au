@@ -19,7 +19,7 @@ function App() {
       </div>
 
       <div className='nav-cent'><img src="https://cdn.pixabay.com/photo/2024/02/15/20/08/dog-8576035_1280.png"/>
-        <div id="re" style={{color: "white"}, {font-size: 30px}}>Map Dude by Pranay</div>
+       
       </div>
 
       <div className='nav-right'>
@@ -30,7 +30,7 @@ function App() {
     </nav>
 
       <div className='nav-gap'>
-        <h3>Our Price Guarantee</h3>
+        <h3>Map Dude by Pranay</h3>
       </div>
 
       <div className='nav-gap2 '>
